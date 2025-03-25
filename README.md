@@ -62,6 +62,3 @@ Feel free to modify this template based on your specific needs or additional det
 
 Citations:
 [1] https://www.kaggle.com/datasets/swaptr/layoffs-2022
-
----
-Answer from Perplexity: pplx.ai/share
