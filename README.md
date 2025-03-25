@@ -1,4 +1,3 @@
-Here's a sample README document for the SQL project focused on data cleaning:
 
 ---
 
